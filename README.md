@@ -64,8 +64,7 @@ It showed me that getting the basics right, like clean data, thoughtful features
 
 ### Repository Contents
 - `Airbnb_Pricing.ipynb` — Main notebook (data cleaning, feature engineering, modelling, and evaluation)  
-- `Airbnb_Pricing_Submission.csv` — Final Kaggle predictions  
-- `figures/` — Visualisations (heatmaps, pairplots, boxplots)  
+- `BUSA3020_Back_Benchersbest.csv` — Final Kaggle predictions  
 - `README.md` — Project summary and documentation  
 
 ### Links

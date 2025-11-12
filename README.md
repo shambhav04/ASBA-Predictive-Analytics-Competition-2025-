@@ -72,3 +72,8 @@ It showed me that getting the basics right, like clean data, thoughtful features
 - [Competition Page on Kaggle](https://www.kaggle.com/competitions/asba-predictive-analytics-competition)  
 - [LinkedIn Post](<add-your-link-here-once-posted>)  
 
+### Citation
+This project was completed as part of the BUSA3020 Advanced Analytics Techniques unit at Macquarie University using a dataset provided through the ASBA Predictive Analytics Competition (2025).  
+
+Milunovich, G. (2025). *ASBA Predictive Analytics Competition (2025): Predicting Airbnb Listing Prices in Melbourne, Australia*. Kaggle.  
+Retrieved from [https://www.kaggle.com/competitions/asba-predictive-analytics-competition](https://www.kaggle.com/competitions/asba-predictive-analytics-competition)
